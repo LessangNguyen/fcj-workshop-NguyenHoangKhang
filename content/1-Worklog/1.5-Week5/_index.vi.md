@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 1.5. </b> "
 ---
 {{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
+⚠️ **Lưu ý:** Các thông tin dưới međây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
 {{% /notice %}}
 
 
@@ -21,11 +21,11 @@ pre: " <b> 1.5. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Tìm hiểu khái niệm và thực hành khởi tạo cơ sở hạ tầng dưới dạng mã (Infrastructure as Code) sử dụng **AWS CloudFormation** (viết template, tạo stack, quản lý vòng đời tài nguyên). | 12/10/2026   | 12/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 3   | - Thiết lập quản lý truy cập và Đăng nhập một lần (**AWS IAM Identity Center / AWS SSO**) cho Tổ chức/Nhiều tài khoản. | 13/10/2026   | 13/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tìm hiểu và thực hành giới hạn quyền tối đa của người dùng/vai trò IAM bằng **Permission Boundaries** (Ranh giới quyền). | 14/10/2026   | 14/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Cấu hình và hạn chế việc chuyển giao vai trò (AssumeRole) dựa trên các điều kiện ngữ cảnh bảo mật (`aws:PrincipalTag`, điều kiện nguồn, v.v.). | 15/10/2026   | 15/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - Khám phá và kiểm tra các tiêu chuẩn tuân thủ bảo mật, quét lỗ hổng cấu hình hệ thống với **AWS Security Hub**. | 16/10/2026   | 16/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - **Khởi tạo cơ sở hạ tầng dưới dạng mã với AWS CloudFormation:**<br>&emsp;+ Tìm hiểu cấu trúc tệp Template (JSON/YAML) trong CloudFormation.<br>&emsp;+ Viết template khởi tạo VPC, Subnet và máy chủ EC2.<br>&emsp;+ Tiến hành tạo Stack trên CloudFormation Console.<br>&emsp;+ Kiểm tra quá trình tạo tài nguyên và thực hành cập nhật/xóa Stack.<br>&emsp;+ Dọn dẹp tài nguyên sau bài thực hành. | 12/10/2026   | 12/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 3   | - **Thiết lập Đăng nhập một lần (AWS SSO / IAM Identity Center) cho Tổ chức:**<br>&emsp;+ Kích hoạt AWS IAM Identity Center trong AWS Organizations.<br>&emsp;+ Tạo người dùng (Users) và nhóm người dùng (Groups) trong Identity Center.<br>&emsp;+ Khởi tạo Permission Sets (gán quyền Administrator Access / Read-Only Access).<br>&emsp;+ Gán Permission Sets và tài khoản AWS tương ứng cho từng Group.<br>&emsp;+ Đăng nhập vào AWS Access Portal để kiểm tra việc truy cập nhiều tài khoản qua SSO. | 13/10/2026   | 13/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - **Giới hạn quyền người dùng bằng ranh giới quyền IAM (Permission Boundaries):**<br>&emsp;+ Tạo một IAM Policy đóng vai trò là Permission Boundary (ví dụ: giới hạn chỉ cho phép thao tác trên S3 và EC2).<br>&emsp;+ Tạo IAM User/Role mới và gắn Permission Boundary vừa tạo.<br>&emsp;+ Gán thêm quyền `AdministratorAccess` cho IAM User/Role đó.<br>&emsp;+ Thực hành kiểm chứng: Người dùng không thể thực hiện các thao tác ngoài phạm vi Permission Boundary (ví dụ: truy cập DynamoDB) dù có quyền Admin.<br>&emsp;+ Dọn dẹp tài nguyên. | 14/10/2026   | 14/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - **Hạn chế chuyển giao vai trò theo điều kiện (Role Assumption Conditions):**<br>&emsp;+ Tạo IAM Role để chuyển giao (AssumeRole).<br>&emsp;+ Cấu hình Trust Policy với điều kiện hạn chế như `aws:PrincipalTag`, `aws:SourceIp`, hoặc `ExternalId`.<br>&emsp;+ Thực hành giả định vai trò bằng AWS CLI (`aws sts assume-role`).<br>&emsp;+ Kiểm tra kết quả: Xác nhận lệnh thành công khi thỏa mãn điều kiện và bị từ chối (Access Denied) khi vi phạm điều kiện.<br>&emsp;+ Dọn dẹp tài nguyên. | 15/10/2026   | 15/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - **Kiểm tra các tiêu chuẩn bảo mật với AWS Security Hub:**<br>&emsp;+ Bật dịch vụ AWS Security Hub trên Console.<br>&emsp;+ Kích hoạt các tiêu chuẩn bảo mật (ví dụ: AWS Foundational Security Best Practices, CIS AWS Foundations Benchmark).<br>&emsp;+ Chạy quá trình đánh giá và xem các phát hiện bảo mật (Findings).<br>&emsp;+ Phân tích các lỗi cấu hình hạ tầng bị cảnh báo và thực hiện các bước khắc phục thử nghiệm.<br>&emsp;+ Tiến hành dọn dẹp tài nguyên. | 16/10/2026   | 16/10/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được trong tuần 5:
