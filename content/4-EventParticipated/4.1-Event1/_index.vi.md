@@ -167,14 +167,6 @@ Một số bài học quan trọng:
 Thêm các hình ảnh thực tế trong quá trình tham gia sự kiện:
 <img width="2561" height="1921" alt="image" src="https://github.com/user-attachments/assets/9f6cbbb6-0bc5-46bc-a81b-1ba5e361e85b" />
 
-<!-- Hình ảnh check-in tại văn phòng AWS Việt Nam -->
-![Check-in tại văn phòng AWS Việt Nam](images/fcaj-checkin.jpg)
-
-<!-- Hình ảnh buổi talkshow -->
-![Talkshow The Thinking Behind Building The Bot](images/fcaj-talkshow.jpg)
-
-<!-- Hình ảnh hoạt động giao lưu và networking -->
-![Networking cùng cộng đồng AWS Study Group và CMC Global](images/fcaj-networking.jpg)
 
 ## Tổng Kết
 
