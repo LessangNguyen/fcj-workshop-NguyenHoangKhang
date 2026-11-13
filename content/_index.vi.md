@@ -1,4 +1,4 @@
-<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/5087005d-abd7-4c22-b483-7237095e18cd" />---
+
 title: "Báo cáo thực tập"
 date: 2024-01-01
 weight: 1
