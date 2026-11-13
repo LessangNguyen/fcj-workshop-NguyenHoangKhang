@@ -19,7 +19,7 @@ chapter: false
 
 &emsp; **Email:** lessangthrug1905@gmail.com
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPT University
 
 &emsp; **Major:** Artificial Intelligence
 
