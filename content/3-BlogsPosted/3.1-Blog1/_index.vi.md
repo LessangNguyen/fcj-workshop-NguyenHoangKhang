@@ -1,6 +1,6 @@
 ---
 title: "Amazon Connect Health: AWS ứng dụng AI như thế nào để giảm tải công việc cho ngành y tế?"
-date: 2026-11-13
+date: 2026-11-01
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
