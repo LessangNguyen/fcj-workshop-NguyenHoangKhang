@@ -1,98 +1,71 @@
 ---
-title: "Events I Have Participated In"
-date: 2026-09-14
-weight: 4
-chapter: false
-pre: " <b> 4. </b> "
----
 
-> [!WARNING]
-> The content presented below is based on my participation in these events and summarizes the key topics, activities, and knowledge I gained.
+{{% notice warning %}}
+⚠️ **Note:** The content below is a summary of actual events I attended during my learning journey and professional development.
+{{% /notice %}}
 
-Throughout my learning journey, I have had the opportunity to participate in several events related to **AWS Cloud, Artificial Intelligence, and AI Engineering**. These events provided valuable insights into emerging technologies, practical applications, and the development of the technology community.
+Throughout my participation in learning activities and technology community networking events, I have had the opportunity to attend **four events related to AWS Cloud, Artificial Intelligence, and AI Engineering**. Each event provided new knowledge, practical insights, and opportunities to connect with experts and like-minded individuals who share similar career interests in the technology field.
 
-## 4.1. KICKOFF FCAJ BUILDRATHON 2026 (SEASON 01)
+Below is the list of events I have participated in:
 
-- **Date:** September 26, 2026
-- **Time:** 09:00 AM – 12:00 PM
-- **Location:** Bitexco Financial Tower, Ho Chi Minh City, Vietnam
-- **Organizer:** AWS Study Group
-- **Supporting Partner:** CMC Global
-- **Role:** Attendee
+### Event 1
 
-**Overview:**
+ **Event Name:** Kickoff FCAJ Buildrathon 2026 (Season 01)
 
-The kickoff event marked the beginning of FCAJ Buildrathon 2026, bringing together more than 300 participants interested in AWS Cloud and Artificial Intelligence.
+ **Date & Time:** 09:00 AM – 12:00 PM, September 26, 2026
 
-The event focused on Generative AI, Agentic AI, AI Agent architecture, and practical problem-solving approaches. It also introduced enterprise AI applications, optimization techniques, and hands-on challenges to help participants understand how to design and build AI-powered solutions.
+ **Location:** 26th Floor, Bitexco Financial Tower, Ho Chi Minh City, Vietnam
 
-This was a valuable opportunity to explore real-world AI applications, exchange ideas, and connect with other technology enthusiasts.
+ **Organizer:** AWS Study Group
 
-[View detailed event report](4.1-Event1/)
+ **Role:** Attendee
 
-## 4.2. AWS CLOUD & AI DAY 2026 – HCMC WATCH PARTY
+ **Main Topics:** Exploring AWS Cloud, Generative AI, Agentic AI, and the mindset behind building AI Agents through knowledge-sharing sessions, real-world challenge analysis, and guidance on technology product development.
 
-- **Date:** September 29, 2026
-- **Location:** AWS Office, Ho Chi Minh City, Vietnam
-- **Community Organizer:** AWS Study Group
-- **Role:** Attendee
+### Event 2
 
-**Overview:**
+ **Event Name:** AWS Cloud & AI Day 2026 – HCMC Watch Party
 
-AWS Cloud & AI Day 2026 – HCMC Watch Party was a community event that brought together more than 300 attendees at the AWS Ho Chi Minh City office to follow keynotes and share insights from the main event in Hanoi.
+ **Date:** September 29, 2026
 
-The event covered several important technology trends, including Agentic AI, Data Foundation, and Cloud Modernization. Participants also had opportunities to discuss emerging technologies, exchange knowledge, and connect with members of the AWS community.
+ **Location:** AWS Office, Ho Chi Minh City, Vietnam
 
-The sessions helped me gain a broader understanding of how cloud infrastructure and AI technologies are evolving and being applied in real-world environments.
+ **Community Organizer:** AWS Study Group
 
-[View detailed event report](4.2-Event2/)
+ **Role:** Attendee
 
-## 4.3. FIRESIDE CHAT WITH DR. WERNER VOGELS
+ **Main Topics:** Following keynote sessions from AWS Cloud & AI Day 2026 in Hanoi, exploring trends in Agentic AI, Data Foundation, and Cloud Modernization, and exchanging insights into the practical implementation of Cloud & AI solutions.
 
-- **Date:** October 2, 2026
-- **Time:** 08:30 AM – 12:00 PM
-- **Location:** Bitexco Financial Tower, Ho Chi Minh City, Vietnam
-- **Speaker:** Dr. Werner Vogels – Chief Technology Officer (CTO) of Amazon
-- **Role:** Attendee
+### Event 3
 
-**Overview:**
+ **Event Name:** Fireside Chat with Dr. Werner Vogels
 
-The Fireside Chat with Dr. Werner Vogels provided an opportunity to gain insights from one of the leading figures in the global technology industry.
+ **Date & Time:** 08:30 AM – 12:00 PM, October 2, 2026
 
-The discussion focused on the future of Cloud Computing and Artificial Intelligence, particularly the challenges of building and operating systems at a global scale.
+ **Location:** Bitexco Financial Tower, Ho Chi Minh City, Vietnam
 
-Key topics included distributed systems, scalability, reliability, fault tolerance, performance optimization, innovation, and technology leadership.
+ **Speaker:** Dr. Werner Vogels – Chief Technology Officer (CTO) of Amazon
 
-The interactive Q&A session also allowed attendees to gain practical perspectives on software architecture and the future direction of the technology industry.
+ **Role:** Attendee
 
-[View detailed event report](4.3-Event3/)
+ **Main Topics:** Engaging in discussions and listening to insights about the future of Cloud Computing and Artificial Intelligence, distributed system architecture, scalability, and experiences in building technology systems at a global scale.
 
-## 4.4. FIRST CLOUD AI JOURNEY – FROM LEARNING TO BUILDING
+### Event 4
 
-- **Date:** October 24, 2026
-- **Location:** AWS Office – Grand Terra Tower, Hanoi, Vietnam
-- **Role:** Attendee
+ **Event Name:** First Cloud AI Journey – From Learning to Building
 
-**Overview:**
+ **Date:** October 24, 2026
 
-First Cloud AI Journey was a full-day event consisting of two main activities: **FCAJ Mini Meetup** in the morning and **Cloud & AI Infrastructure Meetup** in the afternoon.
+ **Location:** AWS Office – Grand Terra Tower, Hanoi, Vietnam
 
-The morning session, presented by Nguyễn Minh Toàn (FCAJ Member | PTIT), introduced Cloud Quest, an AWS learning platform that uses interactive 3D environments, simulated labs, quizzes, and flashcards to make cloud learning more engaging and practical.
+ **Organizer:** First Cloud AI Journey Community
 
-The afternoon session featured speakers from OMZ JSC, Viettel Networks, and AWS Vietnam. Discussions covered several important infrastructure and AI topics, including Object Storage (Ceph, MinIO, and SeaweedFS), LLM Serving, Multi-Tenant Architecture, GPU Inference, KV Cache, and NVIDIA Dynamo.
+ **Role:** Attendee
 
-Additional discussions explored RAG, Chatbots, Memory, Digital Twin, and Agentic AI, followed by a panel discussion and Q&A session.
-
-This event helped me better understand the infrastructure behind modern AI systems and the journey from learning cloud technologies to building practical AI-powered products.
-
-[View detailed event report](4.4-Event4/)
+ **Main Topics:** Participating in FCAJ Mini Meetup and Cloud & AI Infrastructure Meetup, exploring Cloud Quest, Object Storage, LLM Serving, GPU Inference, NVIDIA Dynamo, RAG, and Agentic AI through knowledge-sharing sessions delivered by industry experts.
 
 ---
 
-## Overall Reflection
+Through these four events, I have had the opportunity to expand my knowledge of AWS Cloud, AI Engineering, and emerging technologies being applied in real-world environments. Beyond technical knowledge, these activities have also helped me develop problem-solving skills, communication skills, networking abilities, and a clearer career direction toward becoming an **AI Engineer**.
 
-Participating in these four events has helped me expand my knowledge of AWS Cloud, Artificial Intelligence, and modern technology architectures.
-
-Beyond technical knowledge, these experiences have also provided opportunities to connect with industry professionals, exchange ideas with other learners, and gain practical perspectives on real-world technology applications.
-
-These activities are valuable milestones in my journey toward becoming an **AI Engineer**, motivating me to continuously learn, experiment, and turn theoretical knowledge into practical solutions.
+These experiences also motivate me to continue learning, practicing, and transforming the knowledge I have gained into technology projects with practical value.
