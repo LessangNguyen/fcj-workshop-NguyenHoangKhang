@@ -1,6 +1,6 @@
 ---
 title: "Events I Have Participated In"
-date: 2026-11-13
+date: 2026-09-14
 weight: 4
 chapter: false
 ---
