@@ -1,14 +1,19 @@
 ---
+title: "Events I Have Participated In"
+date: 2026-11-13
+weight: 4
+chapter: false
+---
 
 {{% notice warning %}}
-⚠️ **Note:** The content below is a summary of actual events I attended during my learning journey and professional development.
+⚠️ **Note:** The content below summarizes actual events I attended throughout my learning journey and professional development.
 {{% /notice %}}
 
-Throughout my participation in learning activities and technology community networking events, I have had the opportunity to attend **four events related to AWS Cloud, Artificial Intelligence, and AI Engineering**. Each event provided new knowledge, practical insights, and opportunities to connect with experts and like-minded individuals who share similar career interests in the technology field.
+Throughout my participation in learning activities and technology community networking events, I have had the opportunity to attend **four events related to AWS Cloud, Artificial Intelligence, and AI Engineering**. Each event has provided valuable knowledge, practical insights, and opportunities to connect with industry experts and like-minded individuals who share similar interests and career goals in the technology field.
 
 Below is the list of events I have participated in:
 
-### Event 1
+### [Event 1 – Kickoff FCAJ Buildrathon 2026 (Season 01)]({{< ref "4-EventParticipated/4.1-Event1/_index.md" >}})
 
  **Event Name:** Kickoff FCAJ Buildrathon 2026 (Season 01)
 
@@ -20,9 +25,9 @@ Below is the list of events I have participated in:
 
  **Role:** Attendee
 
- **Main Topics:** Exploring AWS Cloud, Generative AI, Agentic AI, and the mindset behind building AI Agents through knowledge-sharing sessions, real-world challenge analysis, and guidance on technology product development.
+ **Main Topics:** Exploring AWS Cloud, Generative AI, Agentic AI, and the fundamentals of building AI Agents through knowledge-sharing sessions, real-world challenge analysis, and discussions on technology product development.
 
-### Event 2
+### [Event 2 – AWS Cloud & AI Day 2026 – HCMC Watch Party]({{< ref "4-EventParticipated/4.2-Event2/_index.md" >}})
 
  **Event Name:** AWS Cloud & AI Day 2026 – HCMC Watch Party
 
@@ -34,9 +39,9 @@ Below is the list of events I have participated in:
 
  **Role:** Attendee
 
- **Main Topics:** Following keynote sessions from AWS Cloud & AI Day 2026 in Hanoi, exploring trends in Agentic AI, Data Foundation, and Cloud Modernization, and exchanging insights into the practical implementation of Cloud & AI solutions.
+ **Main Topics:** Following keynote sessions from AWS Cloud & AI Day 2026 in Hanoi, exploring emerging trends in Agentic AI, Data Foundation, and Cloud Modernization, and exchanging insights on implementing Cloud & AI solutions in real-world environments.
 
-### Event 3
+### [Event 3 – Fireside Chat with Dr. Werner Vogels]({{< ref "4-EventParticipated/4.3-Event3/_index.md" >}})
 
  **Event Name:** Fireside Chat with Dr. Werner Vogels
 
@@ -48,9 +53,9 @@ Below is the list of events I have participated in:
 
  **Role:** Attendee
 
- **Main Topics:** Engaging in discussions and listening to insights about the future of Cloud Computing and Artificial Intelligence, distributed system architecture, scalability, and experiences in building technology systems at a global scale.
+ **Main Topics:** Engaging in discussions and gaining insights into the future of Cloud Computing and Artificial Intelligence, distributed system architecture, scalability, and experiences in building and operating technology systems at a global scale.
 
-### Event 4
+### [Event 4 – First Cloud AI Journey – From Learning to Building]({{< ref "4-EventParticipated/4.4-Event4/_index.md" >}})
 
  **Event Name:** First Cloud AI Journey – From Learning to Building
 
@@ -62,10 +67,10 @@ Below is the list of events I have participated in:
 
  **Role:** Attendee
 
- **Main Topics:** Participating in FCAJ Mini Meetup and Cloud & AI Infrastructure Meetup, exploring Cloud Quest, Object Storage, LLM Serving, GPU Inference, NVIDIA Dynamo, RAG, and Agentic AI through knowledge-sharing sessions delivered by industry experts.
+ **Main Topics:** Participating in FCAJ Mini Meetup and Cloud & AI Infrastructure Meetup, exploring Cloud Quest, Object Storage, LLM Serving, GPU Inference, NVIDIA Dynamo, RAG, and Agentic AI through knowledge-sharing sessions led by industry experts.
 
 ---
 
-Through these four events, I have had the opportunity to expand my knowledge of AWS Cloud, AI Engineering, and emerging technologies being applied in real-world environments. Beyond technical knowledge, these activities have also helped me develop problem-solving skills, communication skills, networking abilities, and a clearer career direction toward becoming an **AI Engineer**.
+Through these four events, I have had the opportunity to expand my knowledge of AWS Cloud, AI Engineering, and emerging technologies used in real-world applications. Beyond technical knowledge, these experiences have also helped me develop problem-solving skills, communication skills, networking abilities, and a clearer career direction toward becoming an **AI Engineer**.
 
-These experiences also motivate me to continue learning, practicing, and transforming the knowledge I have gained into technology projects with practical value.
+These experiences motivate me to keep learning, practicing, and transforming the knowledge I have gained into technology projects with practical value.
