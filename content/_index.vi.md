@@ -1,4 +1,4 @@
----
+<img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/5087005d-abd7-4c22-b483-7237095e18cd" />---
 title: "Báo cáo thực tập"
 date: 2024-01-01
 weight: 1
@@ -25,9 +25,8 @@ chapter: false
 
 &emsp; **Thời gian thực tập:** Từ ngày 14/09/2025 đến ngày 14/12/2025
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn] <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/ce1a9eef-a3df-491b-a093-a8e984ed36bd" />
 
-![Uploading image.png…]()
 
 
 ### Nội dung báo cáo
