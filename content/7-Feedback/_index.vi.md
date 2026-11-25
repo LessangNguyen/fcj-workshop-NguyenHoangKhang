@@ -11,7 +11,7 @@ pre: " <b> 7. </b> "
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Không gian làm việc chuyên nghiệp, năng động và tạo cảm hứng rất tốt cho việc học tập lẫn nghiên cứu. Mình đặc biệt ấn tượng với sự cởi mở của cộng đồng AWS Study Group và các bạn cùng khóa — mọi người luôn sẵn sàng trao đổi kiến thức và gỡ rối kỹ thuật cho nhau bất kể thời gian. Nếu chương trình có thêm các buổi offline networking hoặc minigame giao lưu nhỏ giữa các nhóm dự án thì sự gắn kết sẽ còn tuyệt vời hơn nữa.
+Không gian làm việc chuyên nghiệp, năng động và tạo cảm hứng rất tốt cho việc học tập lẫn nghiên cứu. Mình rất thích sự cởi mở của cộng đồng AWS Study Group qua các buổi Kickoff, workshop trực tiếp tại văn phòng AWS cũng như sự hỗ trợ nhiệt tình của các bạn cùng khóa trên các kênh online. Nếu có thêm nhiều buổi co-working trực tiếp theo nhóm nhỏ để mọi người cùng ngồi debug và trao đổi kiến trúc hệ thống thì trải nghiệm sẽ còn hiệu quả hơn nữa.
 
 **2. Sự hỗ trợ của mentor / team admin**  
 Đội ngũ mentor và admin hỗ trợ cực kỳ nhiệt tình và sát sao từ những ngày đầu onboard cho đến lúc chạy dự án thực tế. Thay vì cầm tay chỉ việc, các anh chị luôn gợi mở hướng giải quyết và khuyến khích mình tự tìm tòi, thử nghiệm trên môi trường AWS thật. Các vấn đề về tài liệu, lab hướng dẫn hay thủ tục thực tập đều được team admin phản hồi nhanh chóng và rõ ràng.
